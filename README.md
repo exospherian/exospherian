@@ -1,2 +1,11 @@
-🌱
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:first_quarter_moon_with_face: 	  
+
+
+---
+
+- I'm interested in JavaScript, TypeScript, Node.js and anything related to back-end development. 
+- Currently I'm learning Angular.
+- For a CV, please reach me out via [email](hialuron92@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anna-feynman-0823b91b5/).
+
+---
+
